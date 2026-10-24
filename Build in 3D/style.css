@@ -1,0 +1,120 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #070914;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 8%;
+  border-bottom: 1px solid #22263d;
+}
+
+nav span, h1 span {
+  color: #00e5ff;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px 8%;
+  gap: 30px;
+}
+
+.hero {
+  max-width: 550px;
+}
+
+.tag {
+  color: #00e5ff;
+  letter-spacing: 4px;
+  font-size: 12px;
+  margin-bottom: 25px;
+}
+
+h1 {
+  font-size: clamp(35px, 5vw, 65px);
+  line-height: 1.15;
+  margin-bottom: 25px;
+}
+
+.hero > p:not(.tag) {
+  color: #a5abc2;
+  line-height: 1.8;
+}
+
+button {
+  margin-top: 30px;
+  padding: 15px 25px;
+  background: #00e5ff;
+  border: none;
+  color: #070914;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: white;
+  transform: translateY(-3px);
+}
+
+.scene {
+  width: 48%;
+  max-width: 500px;
+  text-align: center;
+}
+
+canvas {
+  width: 100%;
+  display: block;
+}
+
+.scene p {
+  color: #00e5ff;
+  font-size: 11px;
+  letter-spacing: 3px;
+}
+
+#about {
+  text-align: center;
+  padding: 70px 20px;
+  background: #0d1020;
+}
+
+#about p {
+  margin-top: 15px;
+  color: #a5abc2;
+}
+
+footer {
+  text-align: center;
+  padding: 25px;
+  color: #777d98;
+  font-size: 12px;
+}
+
+@media (max-width: 750px) {
+  main {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .scene {
+    width: 100%;
+  }
+}
