@@ -2,12 +2,12 @@
 
 ---
 
-> ✨ A space-themed website with smooth scrolling, cool animations, and interactive visual effects.
+> ✨ A space themed website with smooth scrolling, cool animations, and interactive visual effects.
 
 ## 🚀 Features
 
 - 🌠 **Smooth Parallax Scrolling**
-- 🌌 **Space-Inspired Design**
+- 🌌 **Space Inspired Design**
 - ✨ **Animated Backgrounds**
 - 📱 **Responsive Layout**
 - 🪐 **Interactive Visual Effects**
