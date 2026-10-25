@@ -12,7 +12,7 @@ A futuristic website inspired by AI, robotics, and the technology of tomorrow.
 - 🤖 Futuristic robot visuals
 - 📱 Responsive design
 - ⚡ Smooth animations and hover effects
-- 🧭 Mobile-friendly navigation
+- 🧭 Mobile friendly navigation
 
 ## 🛠️ Built With
 
