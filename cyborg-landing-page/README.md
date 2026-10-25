@@ -22,9 +22,6 @@ A futuristic website inspired by AI, robotics, and the technology of tomorrow.
 
 ## 🔗 Explore the Project
 
-- **Live Website:** https://silentbit745.github.io/cyborg-landing-page/
-- **GitHub Repository:** https://github.com/SilentBit745/cyborg-landing-page
+- **Live Website:** https://silentbit745.github.io/web-development-projects/cyborg-landing-page/
 
 ---
-
-*Learning, experimenting, and bringing futuristic ideas to life. 🚀*
