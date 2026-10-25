@@ -21,5 +21,5 @@ A futuristic 3D website featuring interactive visuals, smooth animations, and a 
 
 ## 🚀 Live Demo
 
-[View Website](https://silentbit745.github.io/build-in-3d/)
+[View Website](https://silentbit745.github.io/web-development-projects/cyborg-landing-page/)
 
